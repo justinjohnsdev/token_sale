@@ -26,12 +26,10 @@ Ensure you have the following installed:
 3. Add a `.env` file with the following content:
 
    ```plaintext
-   PRIVATE_KEY=your_wallet_private_key
-   INFURA_API_KEY=your_infura_project_id
-   AMOY_RPC_URL=https://polygon-amoy.infura.io/v3/your_infura_project_id
+    PRIVATE_KEY=
+    ETHERSCAN_API_KEY=
+    INFURA_ID=
    ```
-
-   Replace `your_wallet_private_key` and `your_infura_project_id` with your actual wallet private key and Infura project ID.
 
 ## Compilation
 
